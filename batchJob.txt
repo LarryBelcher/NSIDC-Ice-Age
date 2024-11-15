@@ -1,0 +1,742 @@
+  adding: IceSnow--Weekly--Sea-Ice-Age--Arctic-2019-01-01--fullres.png (deflated 6%)
+  adding: IceSnow--Weekly--Sea-Ice-Age--Arctic-2019-01-01--fullres_colorbar.eps (deflated 68%)
+  adding: noaa_logo.eps (deflated 71%)
+  adding: IceSnow--Weekly--Sea-Ice-Age--Arctic-2019-01-08--fullres.png (deflated 6%)
+  adding: IceSnow--Weekly--Sea-Ice-Age--Arctic-2019-01-08--fullres_colorbar.eps (deflated 68%)
+  adding: noaa_logo.eps (deflated 71%)
+  adding: IceSnow--Weekly--Sea-Ice-Age--Arctic-2019-01-15--fullres.png (deflated 6%)
+  adding: IceSnow--Weekly--Sea-Ice-Age--Arctic-2019-01-15--fullres_colorbar.eps (deflated 68%)
+  adding: noaa_logo.eps (deflated 71%)
+  adding: IceSnow--Weekly--Sea-Ice-Age--Arctic-2019-01-22--fullres.png (deflated 6%)
+  adding: IceSnow--Weekly--Sea-Ice-Age--Arctic-2019-01-22--fullres_colorbar.eps (deflated 68%)
+  adding: noaa_logo.eps (deflated 71%)
+  adding: IceSnow--Weekly--Sea-Ice-Age--Arctic-2019-01-29--fullres.png (deflated 6%)
+  adding: IceSnow--Weekly--Sea-Ice-Age--Arctic-2019-01-29--fullres_colorbar.eps (deflated 68%)
+  adding: noaa_logo.eps (deflated 71%)
+Creating: /work/NSIDC_Ice/Images/04-full_res_zips/IceSnow--Weekly--Sea-Ice-Age--Arctic--2019-01-01--fullres.png
+Creating: /work/NSIDC_Ice/Images/04-full_res_zips/IceSnow--Weekly--Sea-Ice-Age--Arctic--2019-01-08--fullres.png
+Creating: /work/NSIDC_Ice/Images/04-full_res_zips/IceSnow--Weekly--Sea-Ice-Age--Arctic--2019-01-15--fullres.png
+Creating: /work/NSIDC_Ice/Images/04-full_res_zips/IceSnow--Weekly--Sea-Ice-Age--Arctic--2019-01-22--fullres.png
+Creating: /work/NSIDC_Ice/Images/04-full_res_zips/IceSnow--Weekly--Sea-Ice-Age--Arctic--2019-01-29--fullres.png
+scp: No match.
+scp: No match.
+Warning: Permanently added '3.231.241.65' (ECDSA) to the list of known hosts.
+scp: No match.
+  adding: IceSnow--Weekly--Sea-Ice-Age--Arctic-2019-02-05--fullres.png (deflated 6%)
+  adding: IceSnow--Weekly--Sea-Ice-Age--Arctic-2019-02-05--fullres_colorbar.eps (deflated 68%)
+  adding: noaa_logo.eps (deflated 71%)
+  adding: IceSnow--Weekly--Sea-Ice-Age--Arctic-2019-02-12--fullres.png (deflated 6%)
+  adding: IceSnow--Weekly--Sea-Ice-Age--Arctic-2019-02-12--fullres_colorbar.eps (deflated 68%)
+  adding: noaa_logo.eps (deflated 71%)
+  adding: IceSnow--Weekly--Sea-Ice-Age--Arctic-2019-02-19--fullres.png (deflated 6%)
+  adding: IceSnow--Weekly--Sea-Ice-Age--Arctic-2019-02-19--fullres_colorbar.eps (deflated 68%)
+  adding: noaa_logo.eps (deflated 71%)
+  adding: IceSnow--Weekly--Sea-Ice-Age--Arctic-2019-02-26--fullres.png (deflated 6%)
+  adding: IceSnow--Weekly--Sea-Ice-Age--Arctic-2019-02-26--fullres_colorbar.eps (deflated 68%)
+  adding: noaa_logo.eps (deflated 71%)
+Creating: /work/NSIDC_Ice/Images/04-full_res_zips/IceSnow--Weekly--Sea-Ice-Age--Arctic--2019-02-05--fullres.png
+Creating: /work/NSIDC_Ice/Images/04-full_res_zips/IceSnow--Weekly--Sea-Ice-Age--Arctic--2019-02-12--fullres.png
+Creating: /work/NSIDC_Ice/Images/04-full_res_zips/IceSnow--Weekly--Sea-Ice-Age--Arctic--2019-02-19--fullres.png
+Creating: /work/NSIDC_Ice/Images/04-full_res_zips/IceSnow--Weekly--Sea-Ice-Age--Arctic--2019-02-26--fullres.png
+scp: No match.
+scp: No match.
+Warning: Permanently added '3.231.241.65' (ECDSA) to the list of known hosts.
+scp: No match.
+  adding: IceSnow--Weekly--Sea-Ice-Age--Arctic-2019-03-05--fullres.png (deflated 6%)
+  adding: IceSnow--Weekly--Sea-Ice-Age--Arctic-2019-03-05--fullres_colorbar.eps (deflated 68%)
+  adding: noaa_logo.eps (deflated 71%)
+  adding: IceSnow--Weekly--Sea-Ice-Age--Arctic-2019-03-12--fullres.png (deflated 6%)
+  adding: IceSnow--Weekly--Sea-Ice-Age--Arctic-2019-03-12--fullres_colorbar.eps (deflated 68%)
+  adding: noaa_logo.eps (deflated 71%)
+  adding: IceSnow--Weekly--Sea-Ice-Age--Arctic-2019-03-19--fullres.png (deflated 6%)
+  adding: IceSnow--Weekly--Sea-Ice-Age--Arctic-2019-03-19--fullres_colorbar.eps (deflated 68%)
+  adding: noaa_logo.eps (deflated 71%)
+  adding: IceSnow--Weekly--Sea-Ice-Age--Arctic-2019-03-26--fullres.png (deflated 6%)
+  adding: IceSnow--Weekly--Sea-Ice-Age--Arctic-2019-03-26--fullres_colorbar.eps (deflated 68%)
+  adding: noaa_logo.eps (deflated 71%)
+Creating: /work/NSIDC_Ice/Images/04-full_res_zips/IceSnow--Weekly--Sea-Ice-Age--Arctic--2019-03-05--fullres.png
+Creating: /work/NSIDC_Ice/Images/04-full_res_zips/IceSnow--Weekly--Sea-Ice-Age--Arctic--2019-03-12--fullres.png
+Creating: /work/NSIDC_Ice/Images/04-full_res_zips/IceSnow--Weekly--Sea-Ice-Age--Arctic--2019-03-19--fullres.png
+Creating: /work/NSIDC_Ice/Images/04-full_res_zips/IceSnow--Weekly--Sea-Ice-Age--Arctic--2019-03-26--fullres.png
+scp: No match.
+scp: No match.
+Warning: Permanently added '3.231.241.65' (ECDSA) to the list of known hosts.
+scp: No match.
+  adding: IceSnow--Weekly--Sea-Ice-Age--Arctic-2019-04-02--fullres.png (deflated 6%)
+  adding: IceSnow--Weekly--Sea-Ice-Age--Arctic-2019-04-02--fullres_colorbar.eps (deflated 68%)
+  adding: noaa_logo.eps (deflated 71%)
+  adding: IceSnow--Weekly--Sea-Ice-Age--Arctic-2019-04-09--fullres.png (deflated 6%)
+  adding: IceSnow--Weekly--Sea-Ice-Age--Arctic-2019-04-09--fullres_colorbar.eps (deflated 68%)
+  adding: noaa_logo.eps (deflated 71%)
+  adding: IceSnow--Weekly--Sea-Ice-Age--Arctic-2019-04-16--fullres.png (deflated 6%)
+  adding: IceSnow--Weekly--Sea-Ice-Age--Arctic-2019-04-16--fullres_colorbar.eps (deflated 68%)
+  adding: noaa_logo.eps (deflated 71%)
+  adding: IceSnow--Weekly--Sea-Ice-Age--Arctic-2019-04-23--fullres.png (deflated 6%)
+  adding: IceSnow--Weekly--Sea-Ice-Age--Arctic-2019-04-23--fullres_colorbar.eps (deflated 68%)
+  adding: noaa_logo.eps (deflated 71%)
+  adding: IceSnow--Weekly--Sea-Ice-Age--Arctic-2019-04-30--fullres.png (deflated 6%)
+  adding: IceSnow--Weekly--Sea-Ice-Age--Arctic-2019-04-30--fullres_colorbar.eps (deflated 68%)
+  adding: noaa_logo.eps (deflated 71%)
+Creating: /work/NSIDC_Ice/Images/04-full_res_zips/IceSnow--Weekly--Sea-Ice-Age--Arctic--2019-04-02--fullres.png
+Creating: /work/NSIDC_Ice/Images/04-full_res_zips/IceSnow--Weekly--Sea-Ice-Age--Arctic--2019-04-09--fullres.png
+Creating: /work/NSIDC_Ice/Images/04-full_res_zips/IceSnow--Weekly--Sea-Ice-Age--Arctic--2019-04-16--fullres.png
+Creating: /work/NSIDC_Ice/Images/04-full_res_zips/IceSnow--Weekly--Sea-Ice-Age--Arctic--2019-04-23--fullres.png
+Creating: /work/NSIDC_Ice/Images/04-full_res_zips/IceSnow--Weekly--Sea-Ice-Age--Arctic--2019-04-30--fullres.png
+scp: No match.
+scp: No match.
+Warning: Permanently added '3.231.241.65' (ECDSA) to the list of known hosts.
+scp: No match.
+  adding: IceSnow--Weekly--Sea-Ice-Age--Arctic-2019-05-07--fullres.png (deflated 6%)
+  adding: IceSnow--Weekly--Sea-Ice-Age--Arctic-2019-05-07--fullres_colorbar.eps (deflated 68%)
+  adding: noaa_logo.eps (deflated 71%)
+  adding: IceSnow--Weekly--Sea-Ice-Age--Arctic-2019-05-14--fullres.png (deflated 6%)
+  adding: IceSnow--Weekly--Sea-Ice-Age--Arctic-2019-05-14--fullres_colorbar.eps (deflated 68%)
+  adding: noaa_logo.eps (deflated 71%)
+  adding: IceSnow--Weekly--Sea-Ice-Age--Arctic-2019-05-21--fullres.png (deflated 6%)
+  adding: IceSnow--Weekly--Sea-Ice-Age--Arctic-2019-05-21--fullres_colorbar.eps (deflated 68%)
+  adding: noaa_logo.eps (deflated 71%)
+  adding: IceSnow--Weekly--Sea-Ice-Age--Arctic-2019-05-28--fullres.png (deflated 6%)
+  adding: IceSnow--Weekly--Sea-Ice-Age--Arctic-2019-05-28--fullres_colorbar.eps (deflated 68%)
+  adding: noaa_logo.eps (deflated 71%)
+Creating: /work/NSIDC_Ice/Images/04-full_res_zips/IceSnow--Weekly--Sea-Ice-Age--Arctic--2019-05-07--fullres.png
+Creating: /work/NSIDC_Ice/Images/04-full_res_zips/IceSnow--Weekly--Sea-Ice-Age--Arctic--2019-05-14--fullres.png
+Creating: /work/NSIDC_Ice/Images/04-full_res_zips/IceSnow--Weekly--Sea-Ice-Age--Arctic--2019-05-21--fullres.png
+Creating: /work/NSIDC_Ice/Images/04-full_res_zips/IceSnow--Weekly--Sea-Ice-Age--Arctic--2019-05-28--fullres.png
+scp: No match.
+scp: No match.
+Warning: Permanently added '3.231.241.65' (ECDSA) to the list of known hosts.
+scp: No match.
+  adding: IceSnow--Weekly--Sea-Ice-Age--Arctic-2019-06-04--fullres.png (deflated 7%)
+  adding: IceSnow--Weekly--Sea-Ice-Age--Arctic-2019-06-04--fullres_colorbar.eps (deflated 68%)
+  adding: noaa_logo.eps (deflated 71%)
+  adding: IceSnow--Weekly--Sea-Ice-Age--Arctic-2019-06-11--fullres.png (deflated 6%)
+  adding: IceSnow--Weekly--Sea-Ice-Age--Arctic-2019-06-11--fullres_colorbar.eps (deflated 68%)
+  adding: noaa_logo.eps (deflated 71%)
+  adding: IceSnow--Weekly--Sea-Ice-Age--Arctic-2019-06-18--fullres.png (deflated 6%)
+  adding: IceSnow--Weekly--Sea-Ice-Age--Arctic-2019-06-18--fullres_colorbar.eps (deflated 68%)
+  adding: noaa_logo.eps (deflated 71%)
+  adding: IceSnow--Weekly--Sea-Ice-Age--Arctic-2019-06-25--fullres.png (deflated 6%)
+  adding: IceSnow--Weekly--Sea-Ice-Age--Arctic-2019-06-25--fullres_colorbar.eps (deflated 68%)
+  adding: noaa_logo.eps (deflated 71%)
+Creating: /work/NSIDC_Ice/Images/04-full_res_zips/IceSnow--Weekly--Sea-Ice-Age--Arctic--2019-06-04--fullres.png
+Creating: /work/NSIDC_Ice/Images/04-full_res_zips/IceSnow--Weekly--Sea-Ice-Age--Arctic--2019-06-11--fullres.png
+Creating: /work/NSIDC_Ice/Images/04-full_res_zips/IceSnow--Weekly--Sea-Ice-Age--Arctic--2019-06-18--fullres.png
+Creating: /work/NSIDC_Ice/Images/04-full_res_zips/IceSnow--Weekly--Sea-Ice-Age--Arctic--2019-06-25--fullres.png
+scp: No match.
+scp: No match.
+Warning: Permanently added '3.231.241.65' (ECDSA) to the list of known hosts.
+scp: No match.
+  adding: IceSnow--Weekly--Sea-Ice-Age--Arctic-2019-07-02--fullres.png (deflated 7%)
+  adding: IceSnow--Weekly--Sea-Ice-Age--Arctic-2019-07-02--fullres_colorbar.eps (deflated 68%)
+  adding: noaa_logo.eps (deflated 71%)
+  adding: IceSnow--Weekly--Sea-Ice-Age--Arctic-2019-07-09--fullres.png (deflated 7%)
+  adding: IceSnow--Weekly--Sea-Ice-Age--Arctic-2019-07-09--fullres_colorbar.eps (deflated 68%)
+  adding: noaa_logo.eps (deflated 71%)
+  adding: IceSnow--Weekly--Sea-Ice-Age--Arctic-2019-07-16--fullres.png (deflated 7%)
+  adding: IceSnow--Weekly--Sea-Ice-Age--Arctic-2019-07-16--fullres_colorbar.eps (deflated 68%)
+  adding: noaa_logo.eps (deflated 71%)
+  adding: IceSnow--Weekly--Sea-Ice-Age--Arctic-2019-07-23--fullres.png (deflated 7%)
+  adding: IceSnow--Weekly--Sea-Ice-Age--Arctic-2019-07-23--fullres_colorbar.eps (deflated 68%)
+  adding: noaa_logo.eps (deflated 71%)
+  adding: IceSnow--Weekly--Sea-Ice-Age--Arctic-2019-07-30--fullres.png (deflated 7%)
+  adding: IceSnow--Weekly--Sea-Ice-Age--Arctic-2019-07-30--fullres_colorbar.eps (deflated 68%)
+  adding: noaa_logo.eps (deflated 71%)
+Creating: /work/NSIDC_Ice/Images/04-full_res_zips/IceSnow--Weekly--Sea-Ice-Age--Arctic--2019-07-02--fullres.png
+Creating: /work/NSIDC_Ice/Images/04-full_res_zips/IceSnow--Weekly--Sea-Ice-Age--Arctic--2019-07-09--fullres.png
+Creating: /work/NSIDC_Ice/Images/04-full_res_zips/IceSnow--Weekly--Sea-Ice-Age--Arctic--2019-07-16--fullres.png
+Creating: /work/NSIDC_Ice/Images/04-full_res_zips/IceSnow--Weekly--Sea-Ice-Age--Arctic--2019-07-23--fullres.png
+Creating: /work/NSIDC_Ice/Images/04-full_res_zips/IceSnow--Weekly--Sea-Ice-Age--Arctic--2019-07-30--fullres.png
+scp: No match.
+scp: No match.
+Warning: Permanently added '3.231.241.65' (ECDSA) to the list of known hosts.
+scp: No match.
+  adding: IceSnow--Weekly--Sea-Ice-Age--Arctic-2019-08-06--fullres.png (deflated 7%)
+  adding: IceSnow--Weekly--Sea-Ice-Age--Arctic-2019-08-06--fullres_colorbar.eps (deflated 68%)
+  adding: noaa_logo.eps (deflated 71%)
+  adding: IceSnow--Weekly--Sea-Ice-Age--Arctic-2019-08-13--fullres.png (deflated 7%)
+  adding: IceSnow--Weekly--Sea-Ice-Age--Arctic-2019-08-13--fullres_colorbar.eps (deflated 68%)
+  adding: noaa_logo.eps (deflated 71%)
+  adding: IceSnow--Weekly--Sea-Ice-Age--Arctic-2019-08-20--fullres.png (deflated 7%)
+  adding: IceSnow--Weekly--Sea-Ice-Age--Arctic-2019-08-20--fullres_colorbar.eps (deflated 68%)
+  adding: noaa_logo.eps (deflated 71%)
+  adding: IceSnow--Weekly--Sea-Ice-Age--Arctic-2019-08-27--fullres.png (deflated 7%)
+  adding: IceSnow--Weekly--Sea-Ice-Age--Arctic-2019-08-27--fullres_colorbar.eps (deflated 68%)
+  adding: noaa_logo.eps (deflated 71%)
+Creating: /work/NSIDC_Ice/Images/04-full_res_zips/IceSnow--Weekly--Sea-Ice-Age--Arctic--2019-08-06--fullres.png
+Creating: /work/NSIDC_Ice/Images/04-full_res_zips/IceSnow--Weekly--Sea-Ice-Age--Arctic--2019-08-13--fullres.png
+Creating: /work/NSIDC_Ice/Images/04-full_res_zips/IceSnow--Weekly--Sea-Ice-Age--Arctic--2019-08-20--fullres.png
+Creating: /work/NSIDC_Ice/Images/04-full_res_zips/IceSnow--Weekly--Sea-Ice-Age--Arctic--2019-08-27--fullres.png
+scp: No match.
+scp: No match.
+Warning: Permanently added '3.231.241.65' (ECDSA) to the list of known hosts.
+scp: No match.
+  adding: IceSnow--Weekly--Sea-Ice-Age--Arctic-2019-09-03--fullres.png (deflated 7%)
+  adding: IceSnow--Weekly--Sea-Ice-Age--Arctic-2019-09-03--fullres_colorbar.eps (deflated 68%)
+  adding: noaa_logo.eps (deflated 71%)
+  adding: IceSnow--Weekly--Sea-Ice-Age--Arctic-2019-09-10--fullres.png (deflated 7%)
+  adding: IceSnow--Weekly--Sea-Ice-Age--Arctic-2019-09-10--fullres_colorbar.eps (deflated 68%)
+  adding: noaa_logo.eps (deflated 71%)
+  adding: IceSnow--Weekly--Sea-Ice-Age--Arctic-2019-09-17--fullres.png (deflated 7%)
+  adding: IceSnow--Weekly--Sea-Ice-Age--Arctic-2019-09-17--fullres_colorbar.eps (deflated 68%)
+  adding: noaa_logo.eps (deflated 71%)
+  adding: IceSnow--Weekly--Sea-Ice-Age--Arctic-2019-09-24--fullres.png (deflated 7%)
+  adding: IceSnow--Weekly--Sea-Ice-Age--Arctic-2019-09-24--fullres_colorbar.eps (deflated 68%)
+  adding: noaa_logo.eps (deflated 71%)
+Creating: /work/NSIDC_Ice/Images/04-full_res_zips/IceSnow--Weekly--Sea-Ice-Age--Arctic--2019-09-03--fullres.png
+Creating: /work/NSIDC_Ice/Images/04-full_res_zips/IceSnow--Weekly--Sea-Ice-Age--Arctic--2019-09-10--fullres.png
+Creating: /work/NSIDC_Ice/Images/04-full_res_zips/IceSnow--Weekly--Sea-Ice-Age--Arctic--2019-09-17--fullres.png
+Creating: /work/NSIDC_Ice/Images/04-full_res_zips/IceSnow--Weekly--Sea-Ice-Age--Arctic--2019-09-24--fullres.png
+scp: No match.
+scp: No match.
+Warning: Permanently added '3.231.241.65' (ECDSA) to the list of known hosts.
+scp: No match.
+  adding: IceSnow--Weekly--Sea-Ice-Age--Arctic-2019-10-01--fullres.png (deflated 7%)
+  adding: IceSnow--Weekly--Sea-Ice-Age--Arctic-2019-10-01--fullres_colorbar.eps (deflated 68%)
+  adding: noaa_logo.eps (deflated 71%)
+  adding: IceSnow--Weekly--Sea-Ice-Age--Arctic-2019-10-08--fullres.png (deflated 7%)
+  adding: IceSnow--Weekly--Sea-Ice-Age--Arctic-2019-10-08--fullres_colorbar.eps (deflated 68%)
+  adding: noaa_logo.eps (deflated 71%)
+  adding: IceSnow--Weekly--Sea-Ice-Age--Arctic-2019-10-15--fullres.png (deflated 7%)
+  adding: IceSnow--Weekly--Sea-Ice-Age--Arctic-2019-10-15--fullres_colorbar.eps (deflated 68%)
+  adding: noaa_logo.eps (deflated 71%)
+  adding: IceSnow--Weekly--Sea-Ice-Age--Arctic-2019-10-22--fullres.png (deflated 6%)
+  adding: IceSnow--Weekly--Sea-Ice-Age--Arctic-2019-10-22--fullres_colorbar.eps (deflated 68%)
+  adding: noaa_logo.eps (deflated 71%)
+  adding: IceSnow--Weekly--Sea-Ice-Age--Arctic-2019-10-29--fullres.png (deflated 6%)
+  adding: IceSnow--Weekly--Sea-Ice-Age--Arctic-2019-10-29--fullres_colorbar.eps (deflated 68%)
+  adding: noaa_logo.eps (deflated 71%)
+Creating: /work/NSIDC_Ice/Images/04-full_res_zips/IceSnow--Weekly--Sea-Ice-Age--Arctic--2019-10-01--fullres.png
+Creating: /work/NSIDC_Ice/Images/04-full_res_zips/IceSnow--Weekly--Sea-Ice-Age--Arctic--2019-10-08--fullres.png
+Creating: /work/NSIDC_Ice/Images/04-full_res_zips/IceSnow--Weekly--Sea-Ice-Age--Arctic--2019-10-15--fullres.png
+Creating: /work/NSIDC_Ice/Images/04-full_res_zips/IceSnow--Weekly--Sea-Ice-Age--Arctic--2019-10-22--fullres.png
+Creating: /work/NSIDC_Ice/Images/04-full_res_zips/IceSnow--Weekly--Sea-Ice-Age--Arctic--2019-10-29--fullres.png
+scp: No match.
+scp: No match.
+Warning: Permanently added '3.231.241.65' (ECDSA) to the list of known hosts.
+scp: No match.
+  adding: IceSnow--Weekly--Sea-Ice-Age--Arctic-2019-11-05--fullres.png (deflated 6%)
+  adding: IceSnow--Weekly--Sea-Ice-Age--Arctic-2019-11-05--fullres_colorbar.eps (deflated 68%)
+  adding: noaa_logo.eps (deflated 71%)
+  adding: IceSnow--Weekly--Sea-Ice-Age--Arctic-2019-11-12--fullres.png (deflated 6%)
+  adding: IceSnow--Weekly--Sea-Ice-Age--Arctic-2019-11-12--fullres_colorbar.eps (deflated 68%)
+  adding: noaa_logo.eps (deflated 71%)
+  adding: IceSnow--Weekly--Sea-Ice-Age--Arctic-2019-11-19--fullres.png (deflated 6%)
+  adding: IceSnow--Weekly--Sea-Ice-Age--Arctic-2019-11-19--fullres_colorbar.eps (deflated 68%)
+  adding: noaa_logo.eps (deflated 71%)
+  adding: IceSnow--Weekly--Sea-Ice-Age--Arctic-2019-11-26--fullres.png (deflated 6%)
+  adding: IceSnow--Weekly--Sea-Ice-Age--Arctic-2019-11-26--fullres_colorbar.eps (deflated 68%)
+  adding: noaa_logo.eps (deflated 71%)
+Creating: /work/NSIDC_Ice/Images/04-full_res_zips/IceSnow--Weekly--Sea-Ice-Age--Arctic--2019-11-05--fullres.png
+Creating: /work/NSIDC_Ice/Images/04-full_res_zips/IceSnow--Weekly--Sea-Ice-Age--Arctic--2019-11-12--fullres.png
+Creating: /work/NSIDC_Ice/Images/04-full_res_zips/IceSnow--Weekly--Sea-Ice-Age--Arctic--2019-11-19--fullres.png
+Creating: /work/NSIDC_Ice/Images/04-full_res_zips/IceSnow--Weekly--Sea-Ice-Age--Arctic--2019-11-26--fullres.png
+scp: No match.
+scp: No match.
+Warning: Permanently added '3.231.241.65' (ECDSA) to the list of known hosts.
+scp: No match.
+  adding: IceSnow--Weekly--Sea-Ice-Age--Arctic-2019-12-03--fullres.png (deflated 6%)
+  adding: IceSnow--Weekly--Sea-Ice-Age--Arctic-2019-12-03--fullres_colorbar.eps (deflated 68%)
+  adding: noaa_logo.eps (deflated 71%)
+  adding: IceSnow--Weekly--Sea-Ice-Age--Arctic-2019-12-10--fullres.png (deflated 6%)
+  adding: IceSnow--Weekly--Sea-Ice-Age--Arctic-2019-12-10--fullres_colorbar.eps (deflated 68%)
+  adding: noaa_logo.eps (deflated 71%)
+  adding: IceSnow--Weekly--Sea-Ice-Age--Arctic-2019-12-17--fullres.png (deflated 6%)
+  adding: IceSnow--Weekly--Sea-Ice-Age--Arctic-2019-12-17--fullres_colorbar.eps (deflated 68%)
+  adding: noaa_logo.eps (deflated 71%)
+  adding: IceSnow--Weekly--Sea-Ice-Age--Arctic-2019-12-24--fullres.png (deflated 6%)
+  adding: IceSnow--Weekly--Sea-Ice-Age--Arctic-2019-12-24--fullres_colorbar.eps (deflated 68%)
+  adding: noaa_logo.eps (deflated 71%)
+Creating: /work/NSIDC_Ice/Images/04-full_res_zips/IceSnow--Weekly--Sea-Ice-Age--Arctic--2019-12-03--fullres.png
+Creating: /work/NSIDC_Ice/Images/04-full_res_zips/IceSnow--Weekly--Sea-Ice-Age--Arctic--2019-12-10--fullres.png
+Creating: /work/NSIDC_Ice/Images/04-full_res_zips/IceSnow--Weekly--Sea-Ice-Age--Arctic--2019-12-17--fullres.png
+Creating: /work/NSIDC_Ice/Images/04-full_res_zips/IceSnow--Weekly--Sea-Ice-Age--Arctic--2019-12-24--fullres.png
+scp: No match.
+scp: No match.
+Warning: Permanently added '3.231.241.65' (ECDSA) to the list of known hosts.
+scp: No match.
+  adding: IceSnow--Weekly--Sea-Ice-Age--Arctic-2020-01-01--fullres.png (deflated 6%)
+  adding: IceSnow--Weekly--Sea-Ice-Age--Arctic-2020-01-01--fullres_colorbar.eps (deflated 68%)
+  adding: noaa_logo.eps (deflated 71%)
+  adding: IceSnow--Weekly--Sea-Ice-Age--Arctic-2020-01-08--fullres.png (deflated 6%)
+  adding: IceSnow--Weekly--Sea-Ice-Age--Arctic-2020-01-08--fullres_colorbar.eps (deflated 68%)
+  adding: noaa_logo.eps (deflated 71%)
+  adding: IceSnow--Weekly--Sea-Ice-Age--Arctic-2020-01-15--fullres.png (deflated 6%)
+  adding: IceSnow--Weekly--Sea-Ice-Age--Arctic-2020-01-15--fullres_colorbar.eps (deflated 68%)
+  adding: noaa_logo.eps (deflated 71%)
+  adding: IceSnow--Weekly--Sea-Ice-Age--Arctic-2020-01-22--fullres.png (deflated 6%)
+  adding: IceSnow--Weekly--Sea-Ice-Age--Arctic-2020-01-22--fullres_colorbar.eps (deflated 68%)
+  adding: noaa_logo.eps (deflated 71%)
+  adding: IceSnow--Weekly--Sea-Ice-Age--Arctic-2020-01-29--fullres.png (deflated 7%)
+  adding: IceSnow--Weekly--Sea-Ice-Age--Arctic-2020-01-29--fullres_colorbar.eps (deflated 68%)
+  adding: noaa_logo.eps (deflated 71%)
+Creating: /work/NSIDC_Ice/Images/04-full_res_zips/IceSnow--Weekly--Sea-Ice-Age--Arctic--2020-01-01--fullres.png
+Creating: /work/NSIDC_Ice/Images/04-full_res_zips/IceSnow--Weekly--Sea-Ice-Age--Arctic--2020-01-08--fullres.png
+Creating: /work/NSIDC_Ice/Images/04-full_res_zips/IceSnow--Weekly--Sea-Ice-Age--Arctic--2020-01-15--fullres.png
+Creating: /work/NSIDC_Ice/Images/04-full_res_zips/IceSnow--Weekly--Sea-Ice-Age--Arctic--2020-01-22--fullres.png
+Creating: /work/NSIDC_Ice/Images/04-full_res_zips/IceSnow--Weekly--Sea-Ice-Age--Arctic--2020-01-29--fullres.png
+scp: No match.
+scp: No match.
+Warning: Permanently added '3.231.241.65' (ECDSA) to the list of known hosts.
+scp: No match.
+  adding: IceSnow--Weekly--Sea-Ice-Age--Arctic-2020-02-05--fullres.png (deflated 6%)
+  adding: IceSnow--Weekly--Sea-Ice-Age--Arctic-2020-02-05--fullres_colorbar.eps (deflated 68%)
+  adding: noaa_logo.eps (deflated 71%)
+  adding: IceSnow--Weekly--Sea-Ice-Age--Arctic-2020-02-12--fullres.png (deflated 6%)
+  adding: IceSnow--Weekly--Sea-Ice-Age--Arctic-2020-02-12--fullres_colorbar.eps (deflated 68%)
+  adding: noaa_logo.eps (deflated 71%)
+  adding: IceSnow--Weekly--Sea-Ice-Age--Arctic-2020-02-19--fullres.png (deflated 7%)
+  adding: IceSnow--Weekly--Sea-Ice-Age--Arctic-2020-02-19--fullres_colorbar.eps (deflated 68%)
+  adding: noaa_logo.eps (deflated 71%)
+  adding: IceSnow--Weekly--Sea-Ice-Age--Arctic-2020-02-26--fullres.png (deflated 6%)
+  adding: IceSnow--Weekly--Sea-Ice-Age--Arctic-2020-02-26--fullres_colorbar.eps (deflated 68%)
+  adding: noaa_logo.eps (deflated 71%)
+Creating: /work/NSIDC_Ice/Images/04-full_res_zips/IceSnow--Weekly--Sea-Ice-Age--Arctic--2020-02-05--fullres.png
+Creating: /work/NSIDC_Ice/Images/04-full_res_zips/IceSnow--Weekly--Sea-Ice-Age--Arctic--2020-02-12--fullres.png
+Creating: /work/NSIDC_Ice/Images/04-full_res_zips/IceSnow--Weekly--Sea-Ice-Age--Arctic--2020-02-19--fullres.png
+Creating: /work/NSIDC_Ice/Images/04-full_res_zips/IceSnow--Weekly--Sea-Ice-Age--Arctic--2020-02-26--fullres.png
+scp: No match.
+scp: No match.
+Warning: Permanently added '3.231.241.65' (ECDSA) to the list of known hosts.
+scp: No match.
+  adding: IceSnow--Weekly--Sea-Ice-Age--Arctic-2020-03-04--fullres.png (deflated 7%)
+  adding: IceSnow--Weekly--Sea-Ice-Age--Arctic-2020-03-04--fullres_colorbar.eps (deflated 68%)
+  adding: noaa_logo.eps (deflated 71%)
+  adding: IceSnow--Weekly--Sea-Ice-Age--Arctic-2020-03-11--fullres.png (deflated 7%)
+  adding: IceSnow--Weekly--Sea-Ice-Age--Arctic-2020-03-11--fullres_colorbar.eps (deflated 68%)
+  adding: noaa_logo.eps (deflated 71%)
+  adding: IceSnow--Weekly--Sea-Ice-Age--Arctic-2020-03-18--fullres.png (deflated 7%)
+  adding: IceSnow--Weekly--Sea-Ice-Age--Arctic-2020-03-18--fullres_colorbar.eps (deflated 68%)
+  adding: noaa_logo.eps (deflated 71%)
+  adding: IceSnow--Weekly--Sea-Ice-Age--Arctic-2020-03-25--fullres.png (deflated 7%)
+  adding: IceSnow--Weekly--Sea-Ice-Age--Arctic-2020-03-25--fullres_colorbar.eps (deflated 68%)
+  adding: noaa_logo.eps (deflated 71%)
+Creating: /work/NSIDC_Ice/Images/04-full_res_zips/IceSnow--Weekly--Sea-Ice-Age--Arctic--2020-03-04--fullres.png
+Creating: /work/NSIDC_Ice/Images/04-full_res_zips/IceSnow--Weekly--Sea-Ice-Age--Arctic--2020-03-11--fullres.png
+Creating: /work/NSIDC_Ice/Images/04-full_res_zips/IceSnow--Weekly--Sea-Ice-Age--Arctic--2020-03-18--fullres.png
+Creating: /work/NSIDC_Ice/Images/04-full_res_zips/IceSnow--Weekly--Sea-Ice-Age--Arctic--2020-03-25--fullres.png
+scp: No match.
+scp: No match.
+Warning: Permanently added '3.231.241.65' (ECDSA) to the list of known hosts.
+scp: No match.
+  adding: IceSnow--Weekly--Sea-Ice-Age--Arctic-2020-04-01--fullres.png (deflated 7%)
+  adding: IceSnow--Weekly--Sea-Ice-Age--Arctic-2020-04-01--fullres_colorbar.eps (deflated 68%)
+  adding: noaa_logo.eps (deflated 71%)
+  adding: IceSnow--Weekly--Sea-Ice-Age--Arctic-2020-04-08--fullres.png (deflated 7%)
+  adding: IceSnow--Weekly--Sea-Ice-Age--Arctic-2020-04-08--fullres_colorbar.eps (deflated 68%)
+  adding: noaa_logo.eps (deflated 71%)
+  adding: IceSnow--Weekly--Sea-Ice-Age--Arctic-2020-04-15--fullres.png (deflated 7%)
+  adding: IceSnow--Weekly--Sea-Ice-Age--Arctic-2020-04-15--fullres_colorbar.eps (deflated 68%)
+  adding: noaa_logo.eps (deflated 71%)
+  adding: IceSnow--Weekly--Sea-Ice-Age--Arctic-2020-04-22--fullres.png (deflated 7%)
+  adding: IceSnow--Weekly--Sea-Ice-Age--Arctic-2020-04-22--fullres_colorbar.eps (deflated 68%)
+  adding: noaa_logo.eps (deflated 71%)
+  adding: IceSnow--Weekly--Sea-Ice-Age--Arctic-2020-04-29--fullres.png (deflated 7%)
+  adding: IceSnow--Weekly--Sea-Ice-Age--Arctic-2020-04-29--fullres_colorbar.eps (deflated 68%)
+  adding: noaa_logo.eps (deflated 71%)
+Creating: /work/NSIDC_Ice/Images/04-full_res_zips/IceSnow--Weekly--Sea-Ice-Age--Arctic--2020-04-01--fullres.png
+Creating: /work/NSIDC_Ice/Images/04-full_res_zips/IceSnow--Weekly--Sea-Ice-Age--Arctic--2020-04-08--fullres.png
+Creating: /work/NSIDC_Ice/Images/04-full_res_zips/IceSnow--Weekly--Sea-Ice-Age--Arctic--2020-04-15--fullres.png
+Creating: /work/NSIDC_Ice/Images/04-full_res_zips/IceSnow--Weekly--Sea-Ice-Age--Arctic--2020-04-22--fullres.png
+Creating: /work/NSIDC_Ice/Images/04-full_res_zips/IceSnow--Weekly--Sea-Ice-Age--Arctic--2020-04-29--fullres.png
+scp: No match.
+scp: No match.
+Warning: Permanently added '3.231.241.65' (ECDSA) to the list of known hosts.
+scp: No match.
+  adding: IceSnow--Weekly--Sea-Ice-Age--Arctic-2020-05-06--fullres.png (deflated 7%)
+  adding: IceSnow--Weekly--Sea-Ice-Age--Arctic-2020-05-06--fullres_colorbar.eps (deflated 68%)
+  adding: noaa_logo.eps (deflated 71%)
+  adding: IceSnow--Weekly--Sea-Ice-Age--Arctic-2020-05-13--fullres.png (deflated 7%)
+  adding: IceSnow--Weekly--Sea-Ice-Age--Arctic-2020-05-13--fullres_colorbar.eps (deflated 68%)
+  adding: noaa_logo.eps (deflated 71%)
+  adding: IceSnow--Weekly--Sea-Ice-Age--Arctic-2020-05-20--fullres.png (deflated 7%)
+  adding: IceSnow--Weekly--Sea-Ice-Age--Arctic-2020-05-20--fullres_colorbar.eps (deflated 68%)
+  adding: noaa_logo.eps (deflated 71%)
+  adding: IceSnow--Weekly--Sea-Ice-Age--Arctic-2020-05-27--fullres.png (deflated 7%)
+  adding: IceSnow--Weekly--Sea-Ice-Age--Arctic-2020-05-27--fullres_colorbar.eps (deflated 68%)
+  adding: noaa_logo.eps (deflated 71%)
+Creating: /work/NSIDC_Ice/Images/04-full_res_zips/IceSnow--Weekly--Sea-Ice-Age--Arctic--2020-05-06--fullres.png
+Creating: /work/NSIDC_Ice/Images/04-full_res_zips/IceSnow--Weekly--Sea-Ice-Age--Arctic--2020-05-13--fullres.png
+Creating: /work/NSIDC_Ice/Images/04-full_res_zips/IceSnow--Weekly--Sea-Ice-Age--Arctic--2020-05-20--fullres.png
+Creating: /work/NSIDC_Ice/Images/04-full_res_zips/IceSnow--Weekly--Sea-Ice-Age--Arctic--2020-05-27--fullres.png
+scp: No match.
+scp: No match.
+Warning: Permanently added '3.231.241.65' (ECDSA) to the list of known hosts.
+scp: No match.
+  adding: IceSnow--Weekly--Sea-Ice-Age--Arctic-2020-06-03--fullres.png (deflated 7%)
+  adding: IceSnow--Weekly--Sea-Ice-Age--Arctic-2020-06-03--fullres_colorbar.eps (deflated 68%)
+  adding: noaa_logo.eps (deflated 71%)
+  adding: IceSnow--Weekly--Sea-Ice-Age--Arctic-2020-06-10--fullres.png (deflated 7%)
+  adding: IceSnow--Weekly--Sea-Ice-Age--Arctic-2020-06-10--fullres_colorbar.eps (deflated 68%)
+  adding: noaa_logo.eps (deflated 71%)
+  adding: IceSnow--Weekly--Sea-Ice-Age--Arctic-2020-06-17--fullres.png (deflated 7%)
+  adding: IceSnow--Weekly--Sea-Ice-Age--Arctic-2020-06-17--fullres_colorbar.eps (deflated 68%)
+  adding: noaa_logo.eps (deflated 71%)
+  adding: IceSnow--Weekly--Sea-Ice-Age--Arctic-2020-06-24--fullres.png (deflated 7%)
+  adding: IceSnow--Weekly--Sea-Ice-Age--Arctic-2020-06-24--fullres_colorbar.eps (deflated 68%)
+  adding: noaa_logo.eps (deflated 71%)
+Creating: /work/NSIDC_Ice/Images/04-full_res_zips/IceSnow--Weekly--Sea-Ice-Age--Arctic--2020-06-03--fullres.png
+Creating: /work/NSIDC_Ice/Images/04-full_res_zips/IceSnow--Weekly--Sea-Ice-Age--Arctic--2020-06-10--fullres.png
+Creating: /work/NSIDC_Ice/Images/04-full_res_zips/IceSnow--Weekly--Sea-Ice-Age--Arctic--2020-06-17--fullres.png
+Creating: /work/NSIDC_Ice/Images/04-full_res_zips/IceSnow--Weekly--Sea-Ice-Age--Arctic--2020-06-24--fullres.png
+scp: No match.
+scp: No match.
+Warning: Permanently added '3.231.241.65' (ECDSA) to the list of known hosts.
+scp: No match.
+  adding: IceSnow--Weekly--Sea-Ice-Age--Arctic-2020-07-01--fullres.png (deflated 7%)
+  adding: IceSnow--Weekly--Sea-Ice-Age--Arctic-2020-07-01--fullres_colorbar.eps (deflated 68%)
+  adding: noaa_logo.eps (deflated 71%)
+  adding: IceSnow--Weekly--Sea-Ice-Age--Arctic-2020-07-08--fullres.png (deflated 7%)
+  adding: IceSnow--Weekly--Sea-Ice-Age--Arctic-2020-07-08--fullres_colorbar.eps (deflated 68%)
+  adding: noaa_logo.eps (deflated 71%)
+  adding: IceSnow--Weekly--Sea-Ice-Age--Arctic-2020-07-15--fullres.png (deflated 7%)
+  adding: IceSnow--Weekly--Sea-Ice-Age--Arctic-2020-07-15--fullres_colorbar.eps (deflated 68%)
+  adding: noaa_logo.eps (deflated 71%)
+  adding: IceSnow--Weekly--Sea-Ice-Age--Arctic-2020-07-22--fullres.png (deflated 7%)
+  adding: IceSnow--Weekly--Sea-Ice-Age--Arctic-2020-07-22--fullres_colorbar.eps (deflated 68%)
+  adding: noaa_logo.eps (deflated 71%)
+  adding: IceSnow--Weekly--Sea-Ice-Age--Arctic-2020-07-29--fullres.png (deflated 7%)
+  adding: IceSnow--Weekly--Sea-Ice-Age--Arctic-2020-07-29--fullres_colorbar.eps (deflated 68%)
+  adding: noaa_logo.eps (deflated 71%)
+Creating: /work/NSIDC_Ice/Images/04-full_res_zips/IceSnow--Weekly--Sea-Ice-Age--Arctic--2020-07-01--fullres.png
+Creating: /work/NSIDC_Ice/Images/04-full_res_zips/IceSnow--Weekly--Sea-Ice-Age--Arctic--2020-07-08--fullres.png
+Creating: /work/NSIDC_Ice/Images/04-full_res_zips/IceSnow--Weekly--Sea-Ice-Age--Arctic--2020-07-15--fullres.png
+Creating: /work/NSIDC_Ice/Images/04-full_res_zips/IceSnow--Weekly--Sea-Ice-Age--Arctic--2020-07-22--fullres.png
+Creating: /work/NSIDC_Ice/Images/04-full_res_zips/IceSnow--Weekly--Sea-Ice-Age--Arctic--2020-07-29--fullres.png
+scp: No match.
+scp: No match.
+Warning: Permanently added '3.231.241.65' (ECDSA) to the list of known hosts.
+scp: No match.
+  adding: IceSnow--Weekly--Sea-Ice-Age--Arctic-2020-08-05--fullres.png (deflated 7%)
+  adding: IceSnow--Weekly--Sea-Ice-Age--Arctic-2020-08-05--fullres_colorbar.eps (deflated 68%)
+  adding: noaa_logo.eps (deflated 71%)
+  adding: IceSnow--Weekly--Sea-Ice-Age--Arctic-2020-08-12--fullres.png (deflated 7%)
+  adding: IceSnow--Weekly--Sea-Ice-Age--Arctic-2020-08-12--fullres_colorbar.eps (deflated 68%)
+  adding: noaa_logo.eps (deflated 71%)
+  adding: IceSnow--Weekly--Sea-Ice-Age--Arctic-2020-08-19--fullres.png (deflated 7%)
+  adding: IceSnow--Weekly--Sea-Ice-Age--Arctic-2020-08-19--fullres_colorbar.eps (deflated 68%)
+  adding: noaa_logo.eps (deflated 71%)
+  adding: IceSnow--Weekly--Sea-Ice-Age--Arctic-2020-08-26--fullres.png (deflated 7%)
+  adding: IceSnow--Weekly--Sea-Ice-Age--Arctic-2020-08-26--fullres_colorbar.eps (deflated 68%)
+  adding: noaa_logo.eps (deflated 71%)
+Creating: /work/NSIDC_Ice/Images/04-full_res_zips/IceSnow--Weekly--Sea-Ice-Age--Arctic--2020-08-05--fullres.png
+Creating: /work/NSIDC_Ice/Images/04-full_res_zips/IceSnow--Weekly--Sea-Ice-Age--Arctic--2020-08-12--fullres.png
+Creating: /work/NSIDC_Ice/Images/04-full_res_zips/IceSnow--Weekly--Sea-Ice-Age--Arctic--2020-08-19--fullres.png
+Creating: /work/NSIDC_Ice/Images/04-full_res_zips/IceSnow--Weekly--Sea-Ice-Age--Arctic--2020-08-26--fullres.png
+scp: No match.
+scp: No match.
+Warning: Permanently added '3.231.241.65' (ECDSA) to the list of known hosts.
+scp: No match.
+  adding: IceSnow--Weekly--Sea-Ice-Age--Arctic-2020-09-02--fullres.png (deflated 7%)
+  adding: IceSnow--Weekly--Sea-Ice-Age--Arctic-2020-09-02--fullres_colorbar.eps (deflated 68%)
+  adding: noaa_logo.eps (deflated 71%)
+  adding: IceSnow--Weekly--Sea-Ice-Age--Arctic-2020-09-09--fullres.png (deflated 7%)
+  adding: IceSnow--Weekly--Sea-Ice-Age--Arctic-2020-09-09--fullres_colorbar.eps (deflated 68%)
+  adding: noaa_logo.eps (deflated 71%)
+  adding: IceSnow--Weekly--Sea-Ice-Age--Arctic-2020-09-16--fullres.png (deflated 7%)
+  adding: IceSnow--Weekly--Sea-Ice-Age--Arctic-2020-09-16--fullres_colorbar.eps (deflated 68%)
+  adding: noaa_logo.eps (deflated 71%)
+  adding: IceSnow--Weekly--Sea-Ice-Age--Arctic-2020-09-23--fullres.png (deflated 7%)
+  adding: IceSnow--Weekly--Sea-Ice-Age--Arctic-2020-09-23--fullres_colorbar.eps (deflated 68%)
+  adding: noaa_logo.eps (deflated 71%)
+  adding: IceSnow--Weekly--Sea-Ice-Age--Arctic-2020-09-30--fullres.png (deflated 7%)
+  adding: IceSnow--Weekly--Sea-Ice-Age--Arctic-2020-09-30--fullres_colorbar.eps (deflated 68%)
+  adding: noaa_logo.eps (deflated 71%)
+Creating: /work/NSIDC_Ice/Images/04-full_res_zips/IceSnow--Weekly--Sea-Ice-Age--Arctic--2020-09-02--fullres.png
+Creating: /work/NSIDC_Ice/Images/04-full_res_zips/IceSnow--Weekly--Sea-Ice-Age--Arctic--2020-09-09--fullres.png
+Creating: /work/NSIDC_Ice/Images/04-full_res_zips/IceSnow--Weekly--Sea-Ice-Age--Arctic--2020-09-16--fullres.png
+Creating: /work/NSIDC_Ice/Images/04-full_res_zips/IceSnow--Weekly--Sea-Ice-Age--Arctic--2020-09-23--fullres.png
+Creating: /work/NSIDC_Ice/Images/04-full_res_zips/IceSnow--Weekly--Sea-Ice-Age--Arctic--2020-09-30--fullres.png
+scp: No match.
+scp: No match.
+Warning: Permanently added '3.231.241.65' (ECDSA) to the list of known hosts.
+scp: No match.
+  adding: IceSnow--Weekly--Sea-Ice-Age--Arctic-2020-10-07--fullres.png (deflated 7%)
+  adding: IceSnow--Weekly--Sea-Ice-Age--Arctic-2020-10-07--fullres_colorbar.eps (deflated 68%)
+  adding: noaa_logo.eps (deflated 71%)
+  adding: IceSnow--Weekly--Sea-Ice-Age--Arctic-2020-10-14--fullres.png (deflated 7%)
+  adding: IceSnow--Weekly--Sea-Ice-Age--Arctic-2020-10-14--fullres_colorbar.eps (deflated 68%)
+  adding: noaa_logo.eps (deflated 71%)
+  adding: IceSnow--Weekly--Sea-Ice-Age--Arctic-2020-10-21--fullres.png (deflated 7%)
+  adding: IceSnow--Weekly--Sea-Ice-Age--Arctic-2020-10-21--fullres_colorbar.eps (deflated 68%)
+  adding: noaa_logo.eps (deflated 71%)
+  adding: IceSnow--Weekly--Sea-Ice-Age--Arctic-2020-10-28--fullres.png (deflated 7%)
+  adding: IceSnow--Weekly--Sea-Ice-Age--Arctic-2020-10-28--fullres_colorbar.eps (deflated 68%)
+  adding: noaa_logo.eps (deflated 71%)
+Creating: /work/NSIDC_Ice/Images/04-full_res_zips/IceSnow--Weekly--Sea-Ice-Age--Arctic--2020-10-07--fullres.png
+Creating: /work/NSIDC_Ice/Images/04-full_res_zips/IceSnow--Weekly--Sea-Ice-Age--Arctic--2020-10-14--fullres.png
+Creating: /work/NSIDC_Ice/Images/04-full_res_zips/IceSnow--Weekly--Sea-Ice-Age--Arctic--2020-10-21--fullres.png
+Creating: /work/NSIDC_Ice/Images/04-full_res_zips/IceSnow--Weekly--Sea-Ice-Age--Arctic--2020-10-28--fullres.png
+scp: No match.
+scp: No match.
+Warning: Permanently added '3.231.241.65' (ECDSA) to the list of known hosts.
+scp: No match.
+  adding: IceSnow--Weekly--Sea-Ice-Age--Arctic-2020-11-04--fullres.png (deflated 7%)
+  adding: IceSnow--Weekly--Sea-Ice-Age--Arctic-2020-11-04--fullres_colorbar.eps (deflated 68%)
+  adding: noaa_logo.eps (deflated 71%)
+  adding: IceSnow--Weekly--Sea-Ice-Age--Arctic-2020-11-11--fullres.png (deflated 7%)
+  adding: IceSnow--Weekly--Sea-Ice-Age--Arctic-2020-11-11--fullres_colorbar.eps (deflated 68%)
+  adding: noaa_logo.eps (deflated 71%)
+  adding: IceSnow--Weekly--Sea-Ice-Age--Arctic-2020-11-18--fullres.png (deflated 7%)
+  adding: IceSnow--Weekly--Sea-Ice-Age--Arctic-2020-11-18--fullres_colorbar.eps (deflated 68%)
+  adding: noaa_logo.eps (deflated 71%)
+  adding: IceSnow--Weekly--Sea-Ice-Age--Arctic-2020-11-25--fullres.png (deflated 7%)
+  adding: IceSnow--Weekly--Sea-Ice-Age--Arctic-2020-11-25--fullres_colorbar.eps (deflated 68%)
+  adding: noaa_logo.eps (deflated 71%)
+Creating: /work/NSIDC_Ice/Images/04-full_res_zips/IceSnow--Weekly--Sea-Ice-Age--Arctic--2020-11-04--fullres.png
+Creating: /work/NSIDC_Ice/Images/04-full_res_zips/IceSnow--Weekly--Sea-Ice-Age--Arctic--2020-11-11--fullres.png
+Creating: /work/NSIDC_Ice/Images/04-full_res_zips/IceSnow--Weekly--Sea-Ice-Age--Arctic--2020-11-18--fullres.png
+Creating: /work/NSIDC_Ice/Images/04-full_res_zips/IceSnow--Weekly--Sea-Ice-Age--Arctic--2020-11-25--fullres.png
+scp: No match.
+scp: No match.
+Warning: Permanently added '3.231.241.65' (ECDSA) to the list of known hosts.
+scp: No match.
+  adding: IceSnow--Weekly--Sea-Ice-Age--Arctic-2020-12-02--fullres.png (deflated 7%)
+  adding: IceSnow--Weekly--Sea-Ice-Age--Arctic-2020-12-02--fullres_colorbar.eps (deflated 68%)
+  adding: noaa_logo.eps (deflated 71%)
+  adding: IceSnow--Weekly--Sea-Ice-Age--Arctic-2020-12-09--fullres.png (deflated 7%)
+  adding: IceSnow--Weekly--Sea-Ice-Age--Arctic-2020-12-09--fullres_colorbar.eps (deflated 68%)
+  adding: noaa_logo.eps (deflated 71%)
+  adding: IceSnow--Weekly--Sea-Ice-Age--Arctic-2020-12-16--fullres.png (deflated 7%)
+  adding: IceSnow--Weekly--Sea-Ice-Age--Arctic-2020-12-16--fullres_colorbar.eps (deflated 68%)
+  adding: noaa_logo.eps (deflated 71%)
+  adding: IceSnow--Weekly--Sea-Ice-Age--Arctic-2020-12-23--fullres.png (deflated 7%)
+  adding: IceSnow--Weekly--Sea-Ice-Age--Arctic-2020-12-23--fullres_colorbar.eps (deflated 68%)
+  adding: noaa_logo.eps (deflated 71%)
+Creating: /work/NSIDC_Ice/Images/04-full_res_zips/IceSnow--Weekly--Sea-Ice-Age--Arctic--2020-12-02--fullres.png
+Creating: /work/NSIDC_Ice/Images/04-full_res_zips/IceSnow--Weekly--Sea-Ice-Age--Arctic--2020-12-09--fullres.png
+Creating: /work/NSIDC_Ice/Images/04-full_res_zips/IceSnow--Weekly--Sea-Ice-Age--Arctic--2020-12-16--fullres.png
+Creating: /work/NSIDC_Ice/Images/04-full_res_zips/IceSnow--Weekly--Sea-Ice-Age--Arctic--2020-12-23--fullres.png
+scp: No match.
+scp: No match.
+Warning: Permanently added '3.231.241.65' (ECDSA) to the list of known hosts.
+scp: No match.
+  adding: IceSnow--Weekly--Sea-Ice-Age--Arctic-2021-01-01--fullres.png (deflated 7%)
+  adding: IceSnow--Weekly--Sea-Ice-Age--Arctic-2021-01-01--fullres_colorbar.eps (deflated 68%)
+  adding: noaa_logo.eps (deflated 71%)
+  adding: IceSnow--Weekly--Sea-Ice-Age--Arctic-2021-01-08--fullres.png (deflated 7%)
+  adding: IceSnow--Weekly--Sea-Ice-Age--Arctic-2021-01-08--fullres_colorbar.eps (deflated 68%)
+  adding: noaa_logo.eps (deflated 71%)
+  adding: IceSnow--Weekly--Sea-Ice-Age--Arctic-2021-01-15--fullres.png (deflated 7%)
+  adding: IceSnow--Weekly--Sea-Ice-Age--Arctic-2021-01-15--fullres_colorbar.eps (deflated 68%)
+  adding: noaa_logo.eps (deflated 71%)
+  adding: IceSnow--Weekly--Sea-Ice-Age--Arctic-2021-01-22--fullres.png (deflated 7%)
+  adding: IceSnow--Weekly--Sea-Ice-Age--Arctic-2021-01-22--fullres_colorbar.eps (deflated 68%)
+  adding: noaa_logo.eps (deflated 71%)
+  adding: IceSnow--Weekly--Sea-Ice-Age--Arctic-2021-01-29--fullres.png (deflated 7%)
+  adding: IceSnow--Weekly--Sea-Ice-Age--Arctic-2021-01-29--fullres_colorbar.eps (deflated 68%)
+  adding: noaa_logo.eps (deflated 71%)
+Creating: /work/NSIDC_Ice/Images/04-full_res_zips/IceSnow--Weekly--Sea-Ice-Age--Arctic--2021-01-01--fullres.png
+Creating: /work/NSIDC_Ice/Images/04-full_res_zips/IceSnow--Weekly--Sea-Ice-Age--Arctic--2021-01-08--fullres.png
+Creating: /work/NSIDC_Ice/Images/04-full_res_zips/IceSnow--Weekly--Sea-Ice-Age--Arctic--2021-01-15--fullres.png
+Creating: /work/NSIDC_Ice/Images/04-full_res_zips/IceSnow--Weekly--Sea-Ice-Age--Arctic--2021-01-22--fullres.png
+Creating: /work/NSIDC_Ice/Images/04-full_res_zips/IceSnow--Weekly--Sea-Ice-Age--Arctic--2021-01-29--fullres.png
+scp: No match.
+scp: No match.
+Warning: Permanently added '3.231.241.65' (ECDSA) to the list of known hosts.
+scp: No match.
+  adding: IceSnow--Weekly--Sea-Ice-Age--Arctic-2021-02-05--fullres.png (deflated 7%)
+  adding: IceSnow--Weekly--Sea-Ice-Age--Arctic-2021-02-05--fullres_colorbar.eps (deflated 68%)
+  adding: noaa_logo.eps (deflated 71%)
+  adding: IceSnow--Weekly--Sea-Ice-Age--Arctic-2021-02-12--fullres.png (deflated 7%)
+  adding: IceSnow--Weekly--Sea-Ice-Age--Arctic-2021-02-12--fullres_colorbar.eps (deflated 68%)
+  adding: noaa_logo.eps (deflated 71%)
+  adding: IceSnow--Weekly--Sea-Ice-Age--Arctic-2021-02-19--fullres.png (deflated 7%)
+  adding: IceSnow--Weekly--Sea-Ice-Age--Arctic-2021-02-19--fullres_colorbar.eps (deflated 68%)
+  adding: noaa_logo.eps (deflated 71%)
+  adding: IceSnow--Weekly--Sea-Ice-Age--Arctic-2021-02-26--fullres.png (deflated 7%)
+  adding: IceSnow--Weekly--Sea-Ice-Age--Arctic-2021-02-26--fullres_colorbar.eps (deflated 68%)
+  adding: noaa_logo.eps (deflated 71%)
+Creating: /work/NSIDC_Ice/Images/04-full_res_zips/IceSnow--Weekly--Sea-Ice-Age--Arctic--2021-02-05--fullres.png
+Creating: /work/NSIDC_Ice/Images/04-full_res_zips/IceSnow--Weekly--Sea-Ice-Age--Arctic--2021-02-12--fullres.png
+Creating: /work/NSIDC_Ice/Images/04-full_res_zips/IceSnow--Weekly--Sea-Ice-Age--Arctic--2021-02-19--fullres.png
+Creating: /work/NSIDC_Ice/Images/04-full_res_zips/IceSnow--Weekly--Sea-Ice-Age--Arctic--2021-02-26--fullres.png
+scp: No match.
+scp: No match.
+Warning: Permanently added '3.231.241.65' (ECDSA) to the list of known hosts.
+scp: No match.
+  adding: IceSnow--Weekly--Sea-Ice-Age--Arctic-2021-03-05--fullres.png (deflated 7%)
+  adding: IceSnow--Weekly--Sea-Ice-Age--Arctic-2021-03-05--fullres_colorbar.eps (deflated 68%)
+  adding: noaa_logo.eps (deflated 71%)
+  adding: IceSnow--Weekly--Sea-Ice-Age--Arctic-2021-03-12--fullres.png (deflated 7%)
+  adding: IceSnow--Weekly--Sea-Ice-Age--Arctic-2021-03-12--fullres_colorbar.eps (deflated 68%)
+  adding: noaa_logo.eps (deflated 71%)
+  adding: IceSnow--Weekly--Sea-Ice-Age--Arctic-2021-03-19--fullres.png (deflated 6%)
+  adding: IceSnow--Weekly--Sea-Ice-Age--Arctic-2021-03-19--fullres_colorbar.eps (deflated 68%)
+  adding: noaa_logo.eps (deflated 71%)
+  adding: IceSnow--Weekly--Sea-Ice-Age--Arctic-2021-03-26--fullres.png (deflated 7%)
+  adding: IceSnow--Weekly--Sea-Ice-Age--Arctic-2021-03-26--fullres_colorbar.eps (deflated 68%)
+  adding: noaa_logo.eps (deflated 71%)
+Creating: /work/NSIDC_Ice/Images/04-full_res_zips/IceSnow--Weekly--Sea-Ice-Age--Arctic--2021-03-05--fullres.png
+Creating: /work/NSIDC_Ice/Images/04-full_res_zips/IceSnow--Weekly--Sea-Ice-Age--Arctic--2021-03-12--fullres.png
+Creating: /work/NSIDC_Ice/Images/04-full_res_zips/IceSnow--Weekly--Sea-Ice-Age--Arctic--2021-03-19--fullres.png
+Creating: /work/NSIDC_Ice/Images/04-full_res_zips/IceSnow--Weekly--Sea-Ice-Age--Arctic--2021-03-26--fullres.png
+scp: No match.
+scp: No match.
+Warning: Permanently added '3.231.241.65' (ECDSA) to the list of known hosts.
+scp: No match.
+  adding: IceSnow--Weekly--Sea-Ice-Age--Arctic-2021-04-02--fullres.png (deflated 7%)
+  adding: IceSnow--Weekly--Sea-Ice-Age--Arctic-2021-04-02--fullres_colorbar.eps (deflated 68%)
+  adding: noaa_logo.eps (deflated 71%)
+  adding: IceSnow--Weekly--Sea-Ice-Age--Arctic-2021-04-09--fullres.png (deflated 7%)
+  adding: IceSnow--Weekly--Sea-Ice-Age--Arctic-2021-04-09--fullres_colorbar.eps (deflated 68%)
+  adding: noaa_logo.eps (deflated 71%)
+  adding: IceSnow--Weekly--Sea-Ice-Age--Arctic-2021-04-16--fullres.png (deflated 7%)
+  adding: IceSnow--Weekly--Sea-Ice-Age--Arctic-2021-04-16--fullres_colorbar.eps (deflated 68%)
+  adding: noaa_logo.eps (deflated 71%)
+  adding: IceSnow--Weekly--Sea-Ice-Age--Arctic-2021-04-23--fullres.png (deflated 7%)
+  adding: IceSnow--Weekly--Sea-Ice-Age--Arctic-2021-04-23--fullres_colorbar.eps (deflated 68%)
+  adding: noaa_logo.eps (deflated 71%)
+  adding: IceSnow--Weekly--Sea-Ice-Age--Arctic-2021-04-30--fullres.png (deflated 7%)
+  adding: IceSnow--Weekly--Sea-Ice-Age--Arctic-2021-04-30--fullres_colorbar.eps (deflated 68%)
+  adding: noaa_logo.eps (deflated 71%)
+Creating: /work/NSIDC_Ice/Images/04-full_res_zips/IceSnow--Weekly--Sea-Ice-Age--Arctic--2021-04-02--fullres.png
+Creating: /work/NSIDC_Ice/Images/04-full_res_zips/IceSnow--Weekly--Sea-Ice-Age--Arctic--2021-04-09--fullres.png
+Creating: /work/NSIDC_Ice/Images/04-full_res_zips/IceSnow--Weekly--Sea-Ice-Age--Arctic--2021-04-16--fullres.png
+Creating: /work/NSIDC_Ice/Images/04-full_res_zips/IceSnow--Weekly--Sea-Ice-Age--Arctic--2021-04-23--fullres.png
+Creating: /work/NSIDC_Ice/Images/04-full_res_zips/IceSnow--Weekly--Sea-Ice-Age--Arctic--2021-04-30--fullres.png
+scp: No match.
+scp: No match.
+Warning: Permanently added '3.231.241.65' (ECDSA) to the list of known hosts.
+scp: No match.
+  adding: IceSnow--Weekly--Sea-Ice-Age--Arctic-2021-05-07--fullres.png (deflated 7%)
+  adding: IceSnow--Weekly--Sea-Ice-Age--Arctic-2021-05-07--fullres_colorbar.eps (deflated 68%)
+  adding: noaa_logo.eps (deflated 71%)
+  adding: IceSnow--Weekly--Sea-Ice-Age--Arctic-2021-05-14--fullres.png (deflated 7%)
+  adding: IceSnow--Weekly--Sea-Ice-Age--Arctic-2021-05-14--fullres_colorbar.eps (deflated 68%)
+  adding: noaa_logo.eps (deflated 71%)
+  adding: IceSnow--Weekly--Sea-Ice-Age--Arctic-2021-05-21--fullres.png (deflated 7%)
+  adding: IceSnow--Weekly--Sea-Ice-Age--Arctic-2021-05-21--fullres_colorbar.eps (deflated 68%)
+  adding: noaa_logo.eps (deflated 71%)
+  adding: IceSnow--Weekly--Sea-Ice-Age--Arctic-2021-05-28--fullres.png (deflated 7%)
+  adding: IceSnow--Weekly--Sea-Ice-Age--Arctic-2021-05-28--fullres_colorbar.eps (deflated 68%)
+  adding: noaa_logo.eps (deflated 71%)
+Creating: /work/NSIDC_Ice/Images/04-full_res_zips/IceSnow--Weekly--Sea-Ice-Age--Arctic--2021-05-07--fullres.png
+Creating: /work/NSIDC_Ice/Images/04-full_res_zips/IceSnow--Weekly--Sea-Ice-Age--Arctic--2021-05-14--fullres.png
+Creating: /work/NSIDC_Ice/Images/04-full_res_zips/IceSnow--Weekly--Sea-Ice-Age--Arctic--2021-05-21--fullres.png
+Creating: /work/NSIDC_Ice/Images/04-full_res_zips/IceSnow--Weekly--Sea-Ice-Age--Arctic--2021-05-28--fullres.png
+scp: No match.
+scp: No match.
+Warning: Permanently added '3.231.241.65' (ECDSA) to the list of known hosts.
+scp: No match.
+  adding: IceSnow--Weekly--Sea-Ice-Age--Arctic-2021-06-04--fullres.png (deflated 7%)
+  adding: IceSnow--Weekly--Sea-Ice-Age--Arctic-2021-06-04--fullres_colorbar.eps (deflated 68%)
+  adding: noaa_logo.eps (deflated 71%)
+  adding: IceSnow--Weekly--Sea-Ice-Age--Arctic-2021-06-11--fullres.png (deflated 7%)
+  adding: IceSnow--Weekly--Sea-Ice-Age--Arctic-2021-06-11--fullres_colorbar.eps (deflated 68%)
+  adding: noaa_logo.eps (deflated 71%)
+  adding: IceSnow--Weekly--Sea-Ice-Age--Arctic-2021-06-18--fullres.png (deflated 7%)
+  adding: IceSnow--Weekly--Sea-Ice-Age--Arctic-2021-06-18--fullres_colorbar.eps (deflated 68%)
+  adding: noaa_logo.eps (deflated 71%)
+  adding: IceSnow--Weekly--Sea-Ice-Age--Arctic-2021-06-25--fullres.png (deflated 7%)
+  adding: IceSnow--Weekly--Sea-Ice-Age--Arctic-2021-06-25--fullres_colorbar.eps (deflated 68%)
+  adding: noaa_logo.eps (deflated 71%)
+Creating: /work/NSIDC_Ice/Images/04-full_res_zips/IceSnow--Weekly--Sea-Ice-Age--Arctic--2021-06-04--fullres.png
+Creating: /work/NSIDC_Ice/Images/04-full_res_zips/IceSnow--Weekly--Sea-Ice-Age--Arctic--2021-06-11--fullres.png
+Creating: /work/NSIDC_Ice/Images/04-full_res_zips/IceSnow--Weekly--Sea-Ice-Age--Arctic--2021-06-18--fullres.png
+Creating: /work/NSIDC_Ice/Images/04-full_res_zips/IceSnow--Weekly--Sea-Ice-Age--Arctic--2021-06-25--fullres.png
+scp: No match.
+scp: No match.
+Warning: Permanently added '3.231.241.65' (ECDSA) to the list of known hosts.
+scp: No match.
+  adding: IceSnow--Weekly--Sea-Ice-Age--Arctic-2021-07-02--fullres.png (deflated 7%)
+  adding: IceSnow--Weekly--Sea-Ice-Age--Arctic-2021-07-02--fullres_colorbar.eps (deflated 68%)
+  adding: noaa_logo.eps (deflated 71%)
+  adding: IceSnow--Weekly--Sea-Ice-Age--Arctic-2021-07-09--fullres.png (deflated 7%)
+  adding: IceSnow--Weekly--Sea-Ice-Age--Arctic-2021-07-09--fullres_colorbar.eps (deflated 68%)
+  adding: noaa_logo.eps (deflated 71%)
+  adding: IceSnow--Weekly--Sea-Ice-Age--Arctic-2021-07-16--fullres.png (deflated 7%)
+  adding: IceSnow--Weekly--Sea-Ice-Age--Arctic-2021-07-16--fullres_colorbar.eps (deflated 68%)
+  adding: noaa_logo.eps (deflated 71%)
+  adding: IceSnow--Weekly--Sea-Ice-Age--Arctic-2021-07-23--fullres.png (deflated 7%)
+  adding: IceSnow--Weekly--Sea-Ice-Age--Arctic-2021-07-23--fullres_colorbar.eps (deflated 68%)
+  adding: noaa_logo.eps (deflated 71%)
+  adding: IceSnow--Weekly--Sea-Ice-Age--Arctic-2021-07-30--fullres.png (deflated 7%)
+  adding: IceSnow--Weekly--Sea-Ice-Age--Arctic-2021-07-30--fullres_colorbar.eps (deflated 68%)
+  adding: noaa_logo.eps (deflated 71%)
+Creating: /work/NSIDC_Ice/Images/04-full_res_zips/IceSnow--Weekly--Sea-Ice-Age--Arctic--2021-07-02--fullres.png
+Creating: /work/NSIDC_Ice/Images/04-full_res_zips/IceSnow--Weekly--Sea-Ice-Age--Arctic--2021-07-09--fullres.png
+Creating: /work/NSIDC_Ice/Images/04-full_res_zips/IceSnow--Weekly--Sea-Ice-Age--Arctic--2021-07-16--fullres.png
+Creating: /work/NSIDC_Ice/Images/04-full_res_zips/IceSnow--Weekly--Sea-Ice-Age--Arctic--2021-07-23--fullres.png
+Creating: /work/NSIDC_Ice/Images/04-full_res_zips/IceSnow--Weekly--Sea-Ice-Age--Arctic--2021-07-30--fullres.png
+scp: No match.
+scp: No match.
+Warning: Permanently added '3.231.241.65' (ECDSA) to the list of known hosts.
+scp: No match.
+  adding: IceSnow--Weekly--Sea-Ice-Age--Arctic-2021-08-06--fullres.png (deflated 7%)
+  adding: IceSnow--Weekly--Sea-Ice-Age--Arctic-2021-08-06--fullres_colorbar.eps (deflated 68%)
+  adding: noaa_logo.eps (deflated 71%)
+  adding: IceSnow--Weekly--Sea-Ice-Age--Arctic-2021-08-13--fullres.png (deflated 7%)
+  adding: IceSnow--Weekly--Sea-Ice-Age--Arctic-2021-08-13--fullres_colorbar.eps (deflated 68%)
+  adding: noaa_logo.eps (deflated 71%)
+  adding: IceSnow--Weekly--Sea-Ice-Age--Arctic-2021-08-20--fullres.png (deflated 7%)
+  adding: IceSnow--Weekly--Sea-Ice-Age--Arctic-2021-08-20--fullres_colorbar.eps (deflated 68%)
+  adding: noaa_logo.eps (deflated 71%)
+  adding: IceSnow--Weekly--Sea-Ice-Age--Arctic-2021-08-27--fullres.png (deflated 7%)
+  adding: IceSnow--Weekly--Sea-Ice-Age--Arctic-2021-08-27--fullres_colorbar.eps (deflated 68%)
+  adding: noaa_logo.eps (deflated 71%)
+Creating: /work/NSIDC_Ice/Images/04-full_res_zips/IceSnow--Weekly--Sea-Ice-Age--Arctic--2021-08-06--fullres.png
+Creating: /work/NSIDC_Ice/Images/04-full_res_zips/IceSnow--Weekly--Sea-Ice-Age--Arctic--2021-08-13--fullres.png
+Creating: /work/NSIDC_Ice/Images/04-full_res_zips/IceSnow--Weekly--Sea-Ice-Age--Arctic--2021-08-20--fullres.png
+Creating: /work/NSIDC_Ice/Images/04-full_res_zips/IceSnow--Weekly--Sea-Ice-Age--Arctic--2021-08-27--fullres.png
+scp: No match.
+scp: No match.
+Warning: Permanently added '3.231.241.65' (ECDSA) to the list of known hosts.
+scp: No match.
+  adding: IceSnow--Weekly--Sea-Ice-Age--Arctic-2021-09-03--fullres.png (deflated 7%)
+  adding: IceSnow--Weekly--Sea-Ice-Age--Arctic-2021-09-03--fullres_colorbar.eps (deflated 68%)
+  adding: noaa_logo.eps (deflated 71%)
+  adding: IceSnow--Weekly--Sea-Ice-Age--Arctic-2021-09-10--fullres.png (deflated 7%)
+  adding: IceSnow--Weekly--Sea-Ice-Age--Arctic-2021-09-10--fullres_colorbar.eps (deflated 68%)
+  adding: noaa_logo.eps (deflated 71%)
+  adding: IceSnow--Weekly--Sea-Ice-Age--Arctic-2021-09-17--fullres.png (deflated 7%)
+  adding: IceSnow--Weekly--Sea-Ice-Age--Arctic-2021-09-17--fullres_colorbar.eps (deflated 68%)
+  adding: noaa_logo.eps (deflated 71%)
+  adding: IceSnow--Weekly--Sea-Ice-Age--Arctic-2021-09-24--fullres.png (deflated 7%)
+  adding: IceSnow--Weekly--Sea-Ice-Age--Arctic-2021-09-24--fullres_colorbar.eps (deflated 68%)
+  adding: noaa_logo.eps (deflated 71%)
+Creating: /work/NSIDC_Ice/Images/04-full_res_zips/IceSnow--Weekly--Sea-Ice-Age--Arctic--2021-09-03--fullres.png
+Creating: /work/NSIDC_Ice/Images/04-full_res_zips/IceSnow--Weekly--Sea-Ice-Age--Arctic--2021-09-10--fullres.png
+Creating: /work/NSIDC_Ice/Images/04-full_res_zips/IceSnow--Weekly--Sea-Ice-Age--Arctic--2021-09-17--fullres.png
+Creating: /work/NSIDC_Ice/Images/04-full_res_zips/IceSnow--Weekly--Sea-Ice-Age--Arctic--2021-09-24--fullres.png
+scp: No match.
+scp: No match.
+Warning: Permanently added '3.231.241.65' (ECDSA) to the list of known hosts.
+scp: No match.
+  adding: IceSnow--Weekly--Sea-Ice-Age--Arctic-2021-10-01--fullres.png (deflated 7%)
+  adding: IceSnow--Weekly--Sea-Ice-Age--Arctic-2021-10-01--fullres_colorbar.eps (deflated 68%)
+  adding: noaa_logo.eps (deflated 71%)
+  adding: IceSnow--Weekly--Sea-Ice-Age--Arctic-2021-10-08--fullres.png (deflated 7%)
+  adding: IceSnow--Weekly--Sea-Ice-Age--Arctic-2021-10-08--fullres_colorbar.eps (deflated 68%)
+  adding: noaa_logo.eps (deflated 71%)
+  adding: IceSnow--Weekly--Sea-Ice-Age--Arctic-2021-10-15--fullres.png (deflated 7%)
+  adding: IceSnow--Weekly--Sea-Ice-Age--Arctic-2021-10-15--fullres_colorbar.eps (deflated 68%)
+  adding: noaa_logo.eps (deflated 71%)
+  adding: IceSnow--Weekly--Sea-Ice-Age--Arctic-2021-10-22--fullres.png (deflated 6%)
+  adding: IceSnow--Weekly--Sea-Ice-Age--Arctic-2021-10-22--fullres_colorbar.eps (deflated 68%)
+  adding: noaa_logo.eps (deflated 71%)
+  adding: IceSnow--Weekly--Sea-Ice-Age--Arctic-2021-10-29--fullres.png (deflated 6%)
+  adding: IceSnow--Weekly--Sea-Ice-Age--Arctic-2021-10-29--fullres_colorbar.eps (deflated 68%)
+  adding: noaa_logo.eps (deflated 71%)
+Creating: /work/NSIDC_Ice/Images/04-full_res_zips/IceSnow--Weekly--Sea-Ice-Age--Arctic--2021-10-01--fullres.png
+Creating: /work/NSIDC_Ice/Images/04-full_res_zips/IceSnow--Weekly--Sea-Ice-Age--Arctic--2021-10-08--fullres.png
+Creating: /work/NSIDC_Ice/Images/04-full_res_zips/IceSnow--Weekly--Sea-Ice-Age--Arctic--2021-10-15--fullres.png
+Creating: /work/NSIDC_Ice/Images/04-full_res_zips/IceSnow--Weekly--Sea-Ice-Age--Arctic--2021-10-22--fullres.png
+Creating: /work/NSIDC_Ice/Images/04-full_res_zips/IceSnow--Weekly--Sea-Ice-Age--Arctic--2021-10-29--fullres.png
+scp: No match.
+scp: No match.
+Warning: Permanently added '3.231.241.65' (ECDSA) to the list of known hosts.
+scp: No match.
+ 
+Sorry, data are not available for 2021-11
+scp: No match.
+scp: No match.
+scp: No match.
+scp: No match.
+rm: No match.
+ 
+Sorry, data are not available for 2021-12
+scp: No match.
+scp: No match.
+scp: No match.
+scp: No match.
+rm: No match.
